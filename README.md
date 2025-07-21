@@ -1,8 +1,8 @@
-# `BlazorWebAssemblyXrefGenerator`
+# `UGC.Browser`
 
 Sample app to accompany [ASP.NET Core Blazor Host and Deploy: GitHub Pages](https://learn.microsoft.com/aspnet/core/blazor/host-and-deploy/webassembly/github-pages).
 
-The Xref Generator tool is used by ASP.NET Core documentation authors to format API document links for ASP.NET Core article markdown.
+The UGC Browser tool is used by ASP.NET Core documentation authors to format API document links for ASP.NET Core article markdown.
 
 This site is automatically deployed to GitHub Pages by a [GitHub Action script (`static.yml`)](https://github.com/dotnet/blazor-samples/blob/main/.github/workflows/static.yml).
 
